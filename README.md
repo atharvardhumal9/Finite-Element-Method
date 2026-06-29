@@ -26,15 +26,15 @@ Topics include:
 ## Repository Structure
 
 ```
-01-Mathematical-Foundations
-02-One-Dimensional-Bar
-03-Steady-State-Heat-Conduction
-04-Two-Dimensional-Truss
-05-Beam-Elements
-06-Frame-Elements
-07-Dynamic-FEM
-08-Nonlinear-FEM
-09-Phase-Field-Cahn-Hilliard
+01.Mathematical-Foundations
+02.One-Dimensional-Bar
+03.Steady-State-Heat-Conduction
+04.Two-Dimensional-Truss
+05.Beam-Elements
+06.Frame-Elements
+07.Dynamic-FEM
+08.Nonlinear-FEM
+09.Phase-Field-Cahn-Hilliard
 docs
 images
 ```
