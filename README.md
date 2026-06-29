@@ -1,4 +1,4 @@
-A # Finite Element Method
+# Finite Element Method
 
 A collection of Finite Element Method implementations developed from first principles using MATLAB and Python.
 
